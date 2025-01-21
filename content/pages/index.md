@@ -21,8 +21,8 @@ sections:
         color: primary
     image:
       type: Image
-      url: /images/hero.svg
-      altText: Hero section image
+      url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+      altText: Image alt text
   - type: CardsSection
     title: Cards Section Component
     subtitle: Section subtitle here
