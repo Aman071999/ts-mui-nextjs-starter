@@ -4,7 +4,7 @@ type: Page
 sections:
   - type: HeroSection
     title: Kritika Gupta
-    subtitle: 'Featuring TypeScript, Next.js, MUI v5 & Emotion'
+    subtitle: ''
     text: ''
     actions:
       - type: Button
